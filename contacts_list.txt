@@ -1,0 +1,21 @@
+Alena,Soboleva,Victorovna,ul. Gagarina 3,05.04.1990,alenasoboleva@outbox.com,+7(920)1234560
+Alexander,Vasiliev,Sergeevich,ul. Gagarina 17,17.07.1975,alexandervasiliev@mail.ru,+7(970)2000007
+Andrei,Klimov,Alexandrovich,ul. Akademicheskaya 11,11.11.1993,andreiklimov@outbox.com,+7(960)5555555
+Anna,Sidorova,Igorevna,ul. Sovetskaya 10,23.03.1978,annasidrova@gmail.com,8(920)3000003
+Denis,Volkov,Igorevich,pr. Pobedy 45,13.09.1987,denisvolkov@yandex.ru,8(916)9999999
+Dmitry,Sokolov,Pavlovich,pr. Pobedy 22,12.08.1980,dmitrysokolov@outbox.com,8(950)5000005
+Ekaterina,Kuzmina,Viktorovna,pr. Lenina 23,07.10.1976,ekaterinakuzmina@gmail.com,8(970)6666666
+Elena,Kuznetsova,Vladimirovna,ul. Krasnaya 5,30.11.1992,elenakuznetsova@yandex.ru,+7(940)4000004
+Igor,Smirnov,Alexandrovich,pr. Oktyabrya 56,18.06.1977,igorsmirnov@gmail.com,+7(940)3333333
+Ivan,Petrov,Alexandrovich,ul. Lenina 1,01.01.1990,ivanpetrov@gmail.com,+7(916)1000001
+Kirill,Orlov,Andreyevich,ul. Lenina 12,02.02.1992,kirillorlov@example.com,8(930)2345671
+Marina,Fedorova,Ivanovna,ul. Lomonosova 45,09.09.1995,marinafedorova@gmail.com,8(980)8000008
+Mikhail,Popov,Vladimirovich,ul. Sibirskaia 8,03.03.1983,mikhailpopov@gmail.com,+7(920)1111111
+Natalia,Vorobyeva,Igorevna,ul. Molodogvardeyskaya 9,29.07.1986,nataliavorobyeva@yandex.ru,+7(950)2444444
+Olga,Morozova,Nikolaevna,ul. Mira 3,05.05.1988,olgamorozova@gmail.com,+79606000006
+Pavel,Novikov,Alexandrovich,pr. Lenina 7,22.02.1982,pavelnovikov@yandex.ru,+7(990)9000009
+Roman,Kiselev,Sergeevich,ul. Stepana Razina 77,20.01.1989,romankiselev@mail.ru,+7(980)7777777
+Sergey,Ivanov,Petrovich,pr. Mira 15,15.06.1985,sergeyivanov@mail.ru,89202000021
+Svetlana,Semenova,Petrovna,ul. Chekhova 34,25.04.1991,svetlanasemenova@mail.ru,8(930)2222222
+Tatiana,Kozlova,Sergeevna,ul. Pushkina 12,14.12.1979,tatianakozlova@outbox.com,89160101010
+Victoria,Melnikova,Alekseevna,ul. Pushkina 101,31.12.1984,victoriamelnikova@gmail.com,+7(990)8888888
